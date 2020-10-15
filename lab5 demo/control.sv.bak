@@ -1,0 +1,4 @@
+module control(
+               input  logic Clk, Reset, LoadA, LoadB, Execute,
+               output logic Shift_En, Ld_A, Ld_B
+					);

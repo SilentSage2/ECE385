@@ -1,0 +1,29 @@
+Quartus Prime Archive log --	J:/lab5_demo/yifanziyang/lab4_multiplier_tmp_archive.qarlog
+
+Archive:	J:/lab5_demo/yifanziyang/lab4_multiplier_tmp_archive.qar
+Date:		Fri Feb 15 10:13:22 2019
+Quartus Prime		18.0.0 Build 614 04/24/2018 SJ Lite Edition
+
+	=========== Files Selected: ===========
+J:/lab5_demo/yifanziyang/HexDriver.sv
+J:/lab5_demo/yifanziyang/control.sv
+J:/lab5_demo/yifanziyang/lab4_8_bit_multiplier_toplevel.sv
+J:/lab5_demo/yifanziyang/lab4_multiplier.qpf
+J:/lab5_demo/yifanziyang/lab4_multiplier.qsf
+J:/lab5_demo/yifanziyang/reg_8.sv
+J:/lab5_demo/yifanziyang/ripple_adder.sv
+J:/lab5_demo/yifanziyang/synchronizers.sv
+J:/lab5_demo/yifanziyang/time.sdc
+J:/yifanziyang/testbench_4.sv
+J:/yifanziyang/time.sdc
+c:/intelfpga_lite/18.0/quartus/bin64/assignment_defaults.qdf
+	======= Total: 12 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Fri Feb 15 10:13:26 2019
+Source archive file:	J:/lab5_demo/yifanziyang/lab4_multiplier_tmp_archive.qar
+Archive was extracted into	I:/Hadi/ABH/yifanc3_ziyangx2/
+		 - successfully.

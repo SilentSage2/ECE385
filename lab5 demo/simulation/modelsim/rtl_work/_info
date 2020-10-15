@@ -1,0 +1,261 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/lab5_demo/yifanziyang/simulation/modelsim
+vadder_subber
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1550796256
+!i10b 1
+!s100 Q>o2GE_`W0z3c2R;eHMTM0
+Iaozf1VH?neiV21egf?dWm3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 !s105 ripple_adder_sv_unit
+S1
+R0
+Z5 w1550198652
+Z6 8F:/lab5_demo/yifanziyang/ripple_adder.sv
+Z7 FF:/lab5_demo/yifanziyang/ripple_adder.sv
+L0 1
+Z8 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z9 !s108 1550796255.000000
+Z10 !s107 F:/lab5_demo/yifanziyang/ripple_adder.sv|
+Z11 !s90 -reportprogress|300|-sv|-work|work|+incdir+F:/lab5_demo/yifanziyang|F:/lab5_demo/yifanziyang/ripple_adder.sv|
+!i113 1
+Z12 o-sv -work work
+Z13 !s92 -sv -work work +incdir+F:/lab5_demo/yifanziyang
+Z14 tCvgOpt 0
+vcontrol
+R1
+Z15 !s110 1550796257
+!i10b 1
+!s100 PZcWFkj]_4ScOJ3kB0<PQ0
+IJN[MnNRGkn5Q5I2f6^V`63
+R3
+!s105 control_sv_unit
+S1
+R0
+w1550243700
+8F:/lab5_demo/yifanziyang/control.sv
+FF:/lab5_demo/yifanziyang/control.sv
+L0 1
+R8
+r1
+!s85 0
+31
+Z16 !s108 1550796257.000000
+!s107 F:/lab5_demo/yifanziyang/control.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+F:/lab5_demo/yifanziyang|F:/lab5_demo/yifanziyang/control.sv|
+!i113 1
+R12
+R13
+R14
+vfull_adder
+R1
+R2
+!i10b 1
+!s100 RjO9;aTO]XjSH;EgdCb053
+IGW=<DG7>@1gmcTffo2og91
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 34
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+vHexDriver
+R1
+R2
+!i10b 1
+!s100 =R2i165HPJgkY;aA[TRmG3
+INiAELXa5FD>fzNH0@=?z80
+R3
+!s105 HexDriver_sv_unit
+S1
+R0
+R5
+8F:/lab5_demo/yifanziyang/HexDriver.sv
+FF:/lab5_demo/yifanziyang/HexDriver.sv
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1550796256.000000
+!s107 F:/lab5_demo/yifanziyang/HexDriver.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+F:/lab5_demo/yifanziyang|F:/lab5_demo/yifanziyang/HexDriver.sv|
+!i113 1
+R12
+R13
+R14
+n@hex@driver
+vlab4_8_bit_multiplier_toplevel
+R1
+Z17 !s110 1550796258
+!i10b 1
+!s100 fk<z7mmV<PITK]4Vm_bXC2
+IAb5deR[d1lNHZL6:jJYTd0
+R3
+!s105 lab4_8_bit_multiplier_toplevel_sv_unit
+S1
+R0
+w1550246376
+8F:/lab5_demo/yifanziyang/lab4_8_bit_multiplier_toplevel.sv
+FF:/lab5_demo/yifanziyang/lab4_8_bit_multiplier_toplevel.sv
+L0 1
+R8
+r1
+!s85 0
+31
+Z18 !s108 1550796258.000000
+!s107 F:/lab5_demo/yifanziyang/lab4_8_bit_multiplier_toplevel.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+F:/lab5_demo/yifanziyang|F:/lab5_demo/yifanziyang/lab4_8_bit_multiplier_toplevel.sv|
+!i113 1
+R12
+R13
+R14
+vreg_8
+R1
+R15
+!i10b 1
+!s100 7P1QBa7<Dh4g^REko1LFo2
+I`6=@T>oTEQLa<lJ6ciYCW3
+R3
+!s105 reg_8_sv_unit
+S1
+R0
+w1550198654
+8F:/lab5_demo/yifanziyang/reg_8.sv
+FF:/lab5_demo/yifanziyang/reg_8.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R16
+!s107 F:/lab5_demo/yifanziyang/reg_8.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+F:/lab5_demo/yifanziyang|F:/lab5_demo/yifanziyang/reg_8.sv|
+!i113 1
+R12
+R13
+R14
+vsync
+R1
+R17
+!i10b 1
+!s100 H`lF>5LzBLCa34OdA7mLY1
+I1zNKP;=N>4PLGejPGclej0
+R3
+Z19 !s105 synchronizers_sv_unit
+S1
+R0
+Z20 w1550198656
+Z21 8F:/lab5_demo/yifanziyang/synchronizers.sv
+Z22 FF:/lab5_demo/yifanziyang/synchronizers.sv
+L0 4
+R8
+r1
+!s85 0
+31
+R18
+Z23 !s107 F:/lab5_demo/yifanziyang/synchronizers.sv|
+Z24 !s90 -reportprogress|300|-sv|-work|work|+incdir+F:/lab5_demo/yifanziyang|F:/lab5_demo/yifanziyang/synchronizers.sv|
+!i113 1
+R12
+R13
+R14
+vsync_r0
+R1
+R17
+!i10b 1
+!s100 BzRRU`<AIUK0l<6P?m@@^3
+I<_0i2hia<1UcW2l142J;[0
+R3
+R19
+S1
+R0
+R20
+R21
+R22
+L0 18
+R8
+r1
+!s85 0
+31
+R18
+R23
+R24
+!i113 1
+R12
+R13
+R14
+vsync_r1
+R1
+R17
+!i10b 1
+!s100 8c`=9zg77UZ6iJc8caP9<3
+I9QjL_KWh]_dRAY:f^H^^c2
+R3
+R19
+S1
+R0
+R20
+R21
+R22
+L0 39
+R8
+r1
+!s85 0
+31
+R18
+R23
+R24
+!i113 1
+R12
+R13
+R14
+vtestbench_4
+R1
+!s110 1550796259
+!i10b 1
+!s100 ST^41IUN>mBh><efjdINI3
+I3?ddNSUVQINF?a27_]DX51
+R3
+!s105 testbench_4_sv_unit
+S1
+R0
+w1550796178
+8F:/lab5_demo/yifanziyang/testbench_4.sv
+FF:/lab5_demo/yifanziyang/testbench_4.sv
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1550796259.000000
+!s107 F:/lab5_demo/yifanziyang/testbench_4.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+F:/lab5_demo/yifanziyang|F:/lab5_demo/yifanziyang/testbench_4.sv|
+!i113 1
+R12
+R13
+R14

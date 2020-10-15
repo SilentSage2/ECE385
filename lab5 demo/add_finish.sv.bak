@@ -1,0 +1,8 @@
+module add_finish (
+                   input [2:0] State_in,
+						 logic output [2:0] State_out
+						 );
+
+	full_adder 
+						 
+endmodule

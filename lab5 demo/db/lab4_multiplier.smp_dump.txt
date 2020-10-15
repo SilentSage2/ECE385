@@ -1,0 +1,24 @@
+
+State Machine - |lab4_8_bit_multiplier_toplevel|control:control_|curr_state
+Name curr_state.ClearA curr_state.Sh1 curr_state.S1 curr_state.Sh2 curr_state.A1 curr_state.Sh3 curr_state.A2 curr_state.Sh4 curr_state.A3 curr_state.Sh5 curr_state.A4 curr_state.Sh6 curr_state.A5 curr_state.Sh7 curr_state.A6 curr_state.Sh8 curr_state.A7 curr_state.ClrA_LdB curr_state.Hold_SH curr_state.NEW curr_state.H1 
+curr_state.H1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+curr_state.NEW 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 
+curr_state.Hold_SH 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 
+curr_state.ClrA_LdB 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 
+curr_state.A7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 
+curr_state.Sh8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 
+curr_state.A6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 
+curr_state.Sh7 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 
+curr_state.A5 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 
+curr_state.Sh6 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 
+curr_state.A4 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 
+curr_state.Sh5 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 
+curr_state.A3 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 
+curr_state.Sh4 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 
+curr_state.A2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+curr_state.Sh3 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+curr_state.A1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+curr_state.Sh2 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+curr_state.S1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+curr_state.Sh1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+curr_state.ClearA 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
