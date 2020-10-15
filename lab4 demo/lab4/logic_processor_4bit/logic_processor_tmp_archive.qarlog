@@ -1,0 +1,30 @@
+Quartus Prime Archive log --	I:/lab4 demo/lab4/logic_processor_4bit/logic_processor_tmp_archive.qarlog
+
+Archive:	I:/lab4 demo/lab4/logic_processor_4bit/logic_processor_tmp_archive.qar
+Date:		Fri Feb 08 11:08:40 2019
+Quartus Prime		18.0.0 Build 614 04/24/2018 SJ Lite Edition
+
+	=========== Files Selected: ===========
+I:/lab4 demo/lab4/logic_processor_4bit/Control.sv
+I:/lab4 demo/lab4/logic_processor_4bit/HexDriver.sv
+I:/lab4 demo/lab4/logic_processor_4bit/Processor.sv
+I:/lab4 demo/lab4/logic_processor_4bit/Reg_4.sv
+I:/lab4 demo/lab4/logic_processor_4bit/Register_unit.sv
+I:/lab4 demo/lab4/logic_processor_4bit/Router.sv
+I:/lab4 demo/lab4/logic_processor_4bit/Synchronizers.sv
+I:/lab4 demo/lab4/logic_processor_4bit/compute.sv
+I:/lab4 demo/lab4/logic_processor_4bit/logic_processor.qpf
+I:/lab4 demo/lab4/logic_processor_4bit/logic_processor.qsf
+I:/lab4 demo/lab4/logic_processor_4bit/testbench.sv
+I:/lab4 demo/lab4/logic_processor_4bit/testbench_8.sv
+c:/intelfpga_lite/18.0/quartus/bin64/assignment_defaults.qdf
+	======= Total: 13 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Fri Feb 08 11:08:43 2019
+Source archive file:	I:/lab4 demo/lab4/logic_processor_4bit/logic_processor_tmp_archive.qar
+Archive was extracted into	J:/abh0208/yifanc3_ziyangx2/processor/
+		 - successfully.

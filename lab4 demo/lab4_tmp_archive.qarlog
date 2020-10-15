@@ -1,0 +1,26 @@
+Quartus Prime Archive log --	I:/lab4 demo/lab4_tmp_archive.qarlog
+
+Archive:	I:/lab4 demo/lab4_tmp_archive.qar
+Date:		Fri Feb 08 11:08:20 2019
+Quartus Prime		18.0.0 Build 614 04/24/2018 SJ Lite Edition
+
+	=========== Files Selected: ===========
+I:/lab4 demo/carry_lookahead_adder.sv
+I:/lab4 demo/lab4.qpf
+I:/lab4 demo/lab4.qsf
+I:/lab4 demo/lab4/ece385sp16_lab4_adders/HexDriver.sv
+I:/lab4 demo/lab4/ece385sp16_lab4_adders/carry_select_adder.sv
+I:/lab4 demo/lab4/ece385sp16_lab4_adders/lab4_adders_toplevel.sv
+I:/lab4 demo/lab4/ece385sp16_lab4_adders/ripple_adder.sv
+I:/lab4 demo/lab4/ece385sp16_lab4_adders/testbench.sv
+c:/intelfpga_lite/18.0/quartus/bin64/assignment_defaults.qdf
+	======= Total: 9 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Fri Feb 08 11:08:24 2019
+Source archive file:	I:/lab4 demo/lab4_tmp_archive.qar
+Archive was extracted into	J:/abh0208/yifanc3_ziyangx2/adder/
+		 - successfully.
