@@ -1,0 +1,96 @@
+Restore Archived Project report for lab6
+Thu Feb 28 22:52:03 2019
+Quartus Prime Version 18.0.0 Build 614 04/24/2018 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2018  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Thu Feb 28 22:52:03 2019 ;
+; Revision Name                   ; lab6                                  ;
+; Top-level Entity Name           ; lab6_toplevel                         ;
+; Family                          ; Cyclone IV E                          ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'E:/ece385/lab6/lab6_new/lab6_tmp_archive.qar' into the 'F:/lab6_demo2' directory
+Info: Generated report 'lab6.restore.rpt'
+
+
++-------------------------+
+; Files Restored          ;
++-------------------------+
+; File Name               ;
++-------------------------+
+; qar_info.json           ;
+; ADDR1_MUX.sv            ;
+; ADDR2_MUX.sv            ;
+; ALU_mux.sv              ;
+; DRMUX.sv                ;
+; HexDriver.sv            ;
+; ISDU.sv                 ;
+; Mem2IO.sv               ;
+; PCMUX.sv                ;
+; PC_next.sv              ;
+; SLC3_2.sv               ;
+; SR1mux.sv               ;
+; SR2mux.sv               ;
+; assignment_defaults.qdf ;
+; databusMUX.sv           ;
+; datapath.sv             ;
+; lab6.qpf                ;
+; lab6.qsf                ;
+; lab6_toplevel.sv        ;
+; memory_contents.sv      ;
+; reg_16.sv               ;
+; register_file.sv        ;
+; setBEN.sv               ;
+; setCC.sv                ;
+; slc3.sv                 ;
+; synchronizers.sv        ;
+; test_memory.sv          ;
+; testbench.sv            ;
+; tristate.sv             ;
++-------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+

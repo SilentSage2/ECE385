@@ -1,0 +1,7 @@
+Info (10281): Verilog HDL Declaration information at slc3.sv(51): object "NZP" differs only in case from object "nzp" in the same scope File: F:/lab6_demo2/slc3.sv Line: 51
+Info (10281): Verilog HDL Declaration information at slc3.sv(39): object "PCMUX" differs only in case from object "pcmux" in the same scope File: F:/lab6_demo2/slc3.sv Line: 39
+Info (10281): Verilog HDL Declaration information at slc3.sv(40): object "SR1MUX" differs only in case from object "sr1mux" in the same scope File: F:/lab6_demo2/slc3.sv Line: 40
+Info (10281): Verilog HDL Declaration information at slc3.sv(40): object "SR2MUX" differs only in case from object "sr2mux" in the same scope File: F:/lab6_demo2/slc3.sv Line: 40
+Info (10281): Verilog HDL Declaration information at slc3.sv(40): object "DRMUX" differs only in case from object "drmux" in the same scope File: F:/lab6_demo2/slc3.sv Line: 40
+Info (10281): Verilog HDL Declaration information at slc3.sv(39): object "ADDR2MUX" differs only in case from object "addr2mux" in the same scope File: F:/lab6_demo2/slc3.sv Line: 39
+Info (10281): Verilog HDL Declaration information at slc3.sv(40): object "ADDR1MUX" differs only in case from object "addr1mux" in the same scope File: F:/lab6_demo2/slc3.sv Line: 40
