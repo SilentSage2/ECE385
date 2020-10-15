@@ -1,0 +1,94 @@
+Quartus Prime Archive log --	I:/lab9-ch2/lab9_tmp_archive.qarlog
+
+Archive:	I:/lab9-ch2/lab9_tmp_archive.qar
+Date:		Fri Apr 05 10:31:32 2019
+Quartus Prime		18.0.0 Build 614 04/24/2018 SJ Lite Edition
+
+	=========== Files Selected: ===========
+I:/lab9-ch2/AES.sv
+I:/lab9-ch2/AES_Decryption_Core_hw.tcl
+I:/lab9-ch2/AddRoundKey.sv
+I:/lab9-ch2/InvMixColumns.sv
+I:/lab9-ch2/InvShiftRows.sv
+I:/lab9-ch2/Inv_sub.sv
+I:/lab9-ch2/KeyExpansion.sv
+I:/lab9-ch2/MixColumn_MUX.sv
+I:/lab9-ch2/SubBytes.sv
+I:/lab9-ch2/assignment_defaults.qdf
+I:/lab9-ch2/hexdriver.sv
+I:/lab9-ch2/lab9.qpf
+I:/lab9-ch2/lab9.qsf
+I:/lab9-ch2/lab9.sdc
+I:/lab9-ch2/lab9_assignment_defaults.qdf
+I:/lab9-ch2/lab9_soc.qsys
+I:/lab9-ch2/lab9_soc.sopcinfo
+I:/lab9-ch2/lab9_soc/lab9_soc.cmp
+I:/lab9-ch2/lab9_soc/synthesis/lab9_soc.debuginfo
+I:/lab9-ch2/lab9_soc/synthesis/lab9_soc.qip
+I:/lab9-ch2/lab9_soc/synthesis/lab9_soc.regmap
+I:/lab9-ch2/lab9_soc/synthesis/lab9_soc.v
+I:/lab9-ch2/lab9_soc/synthesis/submodules/altera_avalon_sc_fifo.v
+I:/lab9-ch2/lab9_soc/synthesis/submodules/altera_avalon_st_clock_crosser.v
+I:/lab9-ch2/lab9_soc/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.sdc
+I:/lab9-ch2/lab9_soc/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v
+I:/lab9-ch2/lab9_soc/synthesis/submodules/altera_avalon_st_pipeline_base.v
+I:/lab9-ch2/lab9_soc/synthesis/submodules/altera_merlin_arbitrator.sv
+I:/lab9-ch2/lab9_soc/synthesis/submodules/altera_merlin_burst_uncompressor.sv
+I:/lab9-ch2/lab9_soc/synthesis/submodules/altera_merlin_master_agent.sv
+I:/lab9-ch2/lab9_soc/synthesis/submodules/altera_merlin_master_translator.sv
+I:/lab9-ch2/lab9_soc/synthesis/submodules/altera_merlin_slave_agent.sv
+I:/lab9-ch2/lab9_soc/synthesis/submodules/altera_merlin_slave_translator.sv
+I:/lab9-ch2/lab9_soc/synthesis/submodules/altera_reset_controller.sdc
+I:/lab9-ch2/lab9_soc/synthesis/submodules/altera_reset_controller.v
+I:/lab9-ch2/lab9_soc/synthesis/submodules/altera_reset_synchronizer.v
+I:/lab9-ch2/lab9_soc/synthesis/submodules/altera_std_synchronizer_nocut.v
+I:/lab9-ch2/lab9_soc/synthesis/submodules/avalon_aes_interface.sv
+I:/lab9-ch2/lab9_soc/synthesis/submodules/lab9_soc_irq_mapper.sv
+I:/lab9-ch2/lab9_soc/synthesis/submodules/lab9_soc_jtag_uart_0.v
+I:/lab9-ch2/lab9_soc/synthesis/submodules/lab9_soc_mm_interconnect_0.v
+I:/lab9-ch2/lab9_soc/synthesis/submodules/lab9_soc_mm_interconnect_0_avalon_st_adapter.v
+I:/lab9-ch2/lab9_soc/synthesis/submodules/lab9_soc_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv
+I:/lab9-ch2/lab9_soc/synthesis/submodules/lab9_soc_mm_interconnect_0_cmd_demux.sv
+I:/lab9-ch2/lab9_soc/synthesis/submodules/lab9_soc_mm_interconnect_0_cmd_demux_001.sv
+I:/lab9-ch2/lab9_soc/synthesis/submodules/lab9_soc_mm_interconnect_0_cmd_mux.sv
+I:/lab9-ch2/lab9_soc/synthesis/submodules/lab9_soc_mm_interconnect_0_cmd_mux_002.sv
+I:/lab9-ch2/lab9_soc/synthesis/submodules/lab9_soc_mm_interconnect_0_router.sv
+I:/lab9-ch2/lab9_soc/synthesis/submodules/lab9_soc_mm_interconnect_0_router_001.sv
+I:/lab9-ch2/lab9_soc/synthesis/submodules/lab9_soc_mm_interconnect_0_router_002.sv
+I:/lab9-ch2/lab9_soc/synthesis/submodules/lab9_soc_mm_interconnect_0_router_004.sv
+I:/lab9-ch2/lab9_soc/synthesis/submodules/lab9_soc_mm_interconnect_0_rsp_demux.sv
+I:/lab9-ch2/lab9_soc/synthesis/submodules/lab9_soc_mm_interconnect_0_rsp_demux_002.sv
+I:/lab9-ch2/lab9_soc/synthesis/submodules/lab9_soc_mm_interconnect_0_rsp_mux.sv
+I:/lab9-ch2/lab9_soc/synthesis/submodules/lab9_soc_mm_interconnect_0_rsp_mux_001.sv
+I:/lab9-ch2/lab9_soc/synthesis/submodules/lab9_soc_nios2_gen2_0.v
+I:/lab9-ch2/lab9_soc/synthesis/submodules/lab9_soc_nios2_gen2_0_cpu.sdc
+I:/lab9-ch2/lab9_soc/synthesis/submodules/lab9_soc_nios2_gen2_0_cpu.v
+I:/lab9-ch2/lab9_soc/synthesis/submodules/lab9_soc_nios2_gen2_0_cpu_debug_slave_sysclk.v
+I:/lab9-ch2/lab9_soc/synthesis/submodules/lab9_soc_nios2_gen2_0_cpu_debug_slave_tck.v
+I:/lab9-ch2/lab9_soc/synthesis/submodules/lab9_soc_nios2_gen2_0_cpu_debug_slave_wrapper.v
+I:/lab9-ch2/lab9_soc/synthesis/submodules/lab9_soc_nios2_gen2_0_cpu_ociram_default_contents.mif
+I:/lab9-ch2/lab9_soc/synthesis/submodules/lab9_soc_nios2_gen2_0_cpu_rf_ram_a.mif
+I:/lab9-ch2/lab9_soc/synthesis/submodules/lab9_soc_nios2_gen2_0_cpu_rf_ram_b.mif
+I:/lab9-ch2/lab9_soc/synthesis/submodules/lab9_soc_nios2_gen2_0_cpu_test_bench.v
+I:/lab9-ch2/lab9_soc/synthesis/submodules/lab9_soc_onchip_memory2_0.hex
+I:/lab9-ch2/lab9_soc/synthesis/submodules/lab9_soc_onchip_memory2_0.v
+I:/lab9-ch2/lab9_soc/synthesis/submodules/lab9_soc_sdram.v
+I:/lab9-ch2/lab9_soc/synthesis/submodules/lab9_soc_sdram_pll.v
+I:/lab9-ch2/lab9_soc/synthesis/submodules/lab9_soc_sysid_qsys_0.v
+I:/lab9-ch2/lab9_soc/synthesis/submodules/lab9_soc_timer.v
+I:/lab9-ch2/lab9_top.sv
+I:/lab9-ch2/reg_128.sv
+I:/lab9-ch2/reg_32.sv
+I:/lab9-ch2/state_MUX.sv
+I:/lab9-ch2/testbench.sv
+I:/lab9-ch2/time.sdc
+	======= Total: 77 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Fri Apr 05 10:31:44 2019
+Source archive file:	I:/lab9-ch2/lab9_tmp_archive.qar
+Archive was extracted into	J:/ECE385/ABH/yifanc3_ziyangx2/
+		 - successfully.

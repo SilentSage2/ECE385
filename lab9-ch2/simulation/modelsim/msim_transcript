@@ -1,0 +1,157 @@
+# Reading F:/intelFPGA18/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# ERROR: No extended dataflow license exists
+# do lab9_run_msim_rtl_systemverilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying F:/intelFPGA18/18.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -sv -work work +incdir+I:/lab9-ch2 {I:/lab9-ch2/SubBytes.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:48:27 on Apr 12,2019
+# vlog -reportprogress 300 -sv -work work "+incdir+I:/lab9-ch2" I:/lab9-ch2/SubBytes.sv 
+# -- Compiling module SubBytes
+# -- Compiling module InvSubBytes
+# 
+# Top level modules:
+# 	SubBytes
+# 	InvSubBytes
+# End time: 21:48:29 on Apr 12,2019, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+I:/lab9-ch2 {I:/lab9-ch2/InvShiftRows.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:48:29 on Apr 12,2019
+# vlog -reportprogress 300 -sv -work work "+incdir+I:/lab9-ch2" I:/lab9-ch2/InvShiftRows.sv 
+# -- Compiling module InvShiftRows
+# 
+# Top level modules:
+# 	InvShiftRows
+# End time: 21:48:29 on Apr 12,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+I:/lab9-ch2 {I:/lab9-ch2/InvMixColumns.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:48:29 on Apr 12,2019
+# vlog -reportprogress 300 -sv -work work "+incdir+I:/lab9-ch2" I:/lab9-ch2/InvMixColumns.sv 
+# -- Compiling module InvMixColumns
+# -- Compiling package InvMixColumns_sv_unit
+# -- Compiling module GF_Mul_9
+# -- Compiling module GF_Mul_b
+# -- Compiling module GF_Mul_d
+# -- Compiling module GF_Mul_e
+# 
+# Top level modules:
+# 	InvMixColumns
+# End time: 21:48:30 on Apr 12,2019, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+I:/lab9-ch2 {I:/lab9-ch2/AddRoundKey.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:48:30 on Apr 12,2019
+# vlog -reportprogress 300 -sv -work work "+incdir+I:/lab9-ch2" I:/lab9-ch2/AddRoundKey.sv 
+# -- Compiling module addRoundkey
+# 
+# Top level modules:
+# 	addRoundkey
+# End time: 21:48:31 on Apr 12,2019, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+I:/lab9-ch2 {I:/lab9-ch2/reg_128.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:48:31 on Apr 12,2019
+# vlog -reportprogress 300 -sv -work work "+incdir+I:/lab9-ch2" I:/lab9-ch2/reg_128.sv 
+# -- Compiling module reg_128
+# -- Compiling module reg_state
+# -- Compiling module reg_MSG
+# -- Compiling module reg_4_up
+# -- Compiling module reg_4_down
+# -- Compiling module reg_1
+# 
+# Top level modules:
+# 	reg_128
+# 	reg_state
+# 	reg_MSG
+# 	reg_4_up
+# 	reg_4_down
+# 	reg_1
+# End time: 21:48:32 on Apr 12,2019, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+I:/lab9-ch2 {I:/lab9-ch2/state_MUX.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:48:32 on Apr 12,2019
+# vlog -reportprogress 300 -sv -work work "+incdir+I:/lab9-ch2" I:/lab9-ch2/state_MUX.sv 
+# -- Compiling module state_MUX
+# 
+# Top level modules:
+# 	state_MUX
+# End time: 21:48:32 on Apr 12,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+I:/lab9-ch2 {I:/lab9-ch2/MixColumn_MUX.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:48:32 on Apr 12,2019
+# vlog -reportprogress 300 -sv -work work "+incdir+I:/lab9-ch2" I:/lab9-ch2/MixColumn_MUX.sv 
+# -- Compiling module MixColumn_MUX
+# 
+# Top level modules:
+# 	MixColumn_MUX
+# End time: 21:48:33 on Apr 12,2019, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+I:/lab9-ch2 {I:/lab9-ch2/KeyExpansion.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:48:33 on Apr 12,2019
+# vlog -reportprogress 300 -sv -work work "+incdir+I:/lab9-ch2" I:/lab9-ch2/KeyExpansion.sv 
+# -- Compiling module KeyExpansion
+# -- Compiling module KeyExpansionOne
+# 
+# Top level modules:
+# 	KeyExpansion
+# End time: 21:48:34 on Apr 12,2019, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+I:/lab9-ch2 {I:/lab9-ch2/AES.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:48:34 on Apr 12,2019
+# vlog -reportprogress 300 -sv -work work "+incdir+I:/lab9-ch2" I:/lab9-ch2/AES.sv 
+# -- Compiling module AES
+# 
+# Top level modules:
+# 	AES
+# End time: 21:48:34 on Apr 12,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+I:/lab9-ch2 {I:/lab9-ch2/Inv_sub.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:48:34 on Apr 12,2019
+# vlog -reportprogress 300 -sv -work work "+incdir+I:/lab9-ch2" I:/lab9-ch2/Inv_sub.sv 
+# -- Compiling module Inv_sub
+# 
+# Top level modules:
+# 	Inv_sub
+# End time: 21:48:35 on Apr 12,2019, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlib lab9_soc
+# ** Warning: (vlib-34) Library already exists at "lab9_soc".
+# vmap lab9_soc lab9_soc
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap lab9_soc lab9_soc 
+# Modifying modelsim.ini
+# 
+# vlog -sv -work work +incdir+I:/lab9-ch2 {I:/lab9-ch2/testbench.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:48:36 on Apr 12,2019
+# vlog -reportprogress 300 -sv -work work "+incdir+I:/lab9-ch2" I:/lab9-ch2/testbench.sv 
+# -- Compiling module testbench
+# 
+# Top level modules:
+# 	testbench
+# End time: 21:48:36 on Apr 12,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -L lab9_soc -voptargs="+acc"  testbench
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run 3000 ns

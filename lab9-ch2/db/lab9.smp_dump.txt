@@ -1,0 +1,17 @@
+
+State Machine - |AES|curr_state
+Name curr_state.DONE curr_state.ADD_ROUND_KEY_FINAL curr_state.MIX_COLS curr_state.MIX_COLS_3 curr_state.MIX_COLS_2 curr_state.MIX_COLS_1 curr_state.MIX_COLS_0 curr_state.ADD_ROUND_KEY curr_state.SUB_BYTES_FINAL curr_state.SUB_BYTES curr_state.SHIFT_ROWS curr_state.ADD_ROUND_KEY_INIT curr_state.KEY_EXPANSION curr_state.WAIT 
+curr_state.WAIT 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+curr_state.KEY_EXPANSION 0 0 0 0 0 0 0 0 0 0 0 0 1 1 
+curr_state.ADD_ROUND_KEY_INIT 0 0 0 0 0 0 0 0 0 0 0 1 0 1 
+curr_state.SHIFT_ROWS 0 0 0 0 0 0 0 0 0 0 1 0 0 1 
+curr_state.SUB_BYTES 0 0 0 0 0 0 0 0 0 1 0 0 0 1 
+curr_state.SUB_BYTES_FINAL 0 0 0 0 0 0 0 0 1 0 0 0 0 1 
+curr_state.ADD_ROUND_KEY 0 0 0 0 0 0 0 1 0 0 0 0 0 1 
+curr_state.MIX_COLS_0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 
+curr_state.MIX_COLS_1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 
+curr_state.MIX_COLS_2 0 0 0 0 1 0 0 0 0 0 0 0 0 1 
+curr_state.MIX_COLS_3 0 0 0 1 0 0 0 0 0 0 0 0 0 1 
+curr_state.MIX_COLS 0 0 1 0 0 0 0 0 0 0 0 0 0 1 
+curr_state.ADD_ROUND_KEY_FINAL 0 1 0 0 0 0 0 0 0 0 0 0 0 1 
+curr_state.DONE 1 0 0 0 0 0 0 0 0 0 0 0 0 1 
